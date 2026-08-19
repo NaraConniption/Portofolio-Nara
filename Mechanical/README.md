@@ -1,0 +1,8 @@
+# Mechanical Drawings & CAD Projects
+
+Kumpulan dokumentasi, gambar teknik (2D), dan model 3D (CAD) yang dibuat selama masa perkuliahan Teknik Mesin.
+
+## Cakupan Proyek
+- **2D Drafting & Assembly:** Gambar kerja, toleransi, dan spesifikasi komponen.
+- **3D Modeling & CAD:** Desain part dan rakitan menggunakan software CAD (SolidWorks/Inventor/AutoCAD).
+- **Project Showcase:** Proyek perancangan elemen mesin dan perkuliahan.
